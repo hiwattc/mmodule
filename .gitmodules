@@ -1,0 +1,9 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/hiwattc/mmodule-common.git
+[submodule "hr"]
+	path = hr
+	url = https://github.com/hiwattc/mmodule-hr.git
+[submodule "accounting"]
+	path = accounting
+	url = https://github.com/hiwattc/mmodule-accounting.git
